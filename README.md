@@ -35,7 +35,7 @@ The game is free and contains ads: an occasional full-screen ad after a reading,
 
 ## Support
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Built with Godot Engine (MIT license) and Godot Google Play Billing (MIT license); ads by the Google Mobile Ads SDK. Card and portrait art was generated with the Qwen-Image model (Apache 2.0) and hand-picked. Reading texts, the 3D table, sound effects and music were made for this game. Full third-party notices are in the game under Settings → Licenses and credits.
 
@@ -70,7 +70,7 @@ Oyun ücretsizdir ve reklam içerir: bir falın ardından seyrek bir tam ekran r
 
 ### Destek
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Godot Engine (MIT lisansı) ve Godot Google Play Billing (MIT lisansı) ile yapıldı; reklamlar Google Mobile Ads SDK ile gelir. Kart ve portre çizimleri Qwen-Image modeliyle (Apache 2.0) üretilip elle seçildi. Fal metinleri, 3B masa, ses efektleri ve müzik bu oyun için yapıldı. Üçüncü taraf bildirimlerinin tamamı oyunda Ayarlar → Lisanslar ve emeği geçenler bölümündedir.
 
